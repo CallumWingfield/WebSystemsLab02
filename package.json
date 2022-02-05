@@ -1,16 +1,15 @@
 {
-  "name": "websystemslab02",
+  "name": "cm4025_nodeonheroku",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "node on heroku",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"start": "node index.js"
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "Pam",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CallumWingfield/WebSystemsLab02/issues"
-  },
-  "homepage": "https://github.com/CallumWingfield/WebSystemsLab02#readme"
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
