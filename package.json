@@ -1,0 +1,16 @@
+{
+  "name": "websystemslab02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CallumWingfield/WebSystemsLab02/issues"
+  },
+  "homepage": "https://github.com/CallumWingfield/WebSystemsLab02#readme"
+}
